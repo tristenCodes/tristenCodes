@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tristen</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **Book Companion**
-
 - 🌱 I’m currently learning **Express and MongoDB**
 
-- 💬 Ask me about **React, Svelte, and NextJS**
+- 💬 Ask me about **React, .NET Core, and NextJS**
 
 - 📫 How to reach me **thaynes.biz@gmail.com**
 
